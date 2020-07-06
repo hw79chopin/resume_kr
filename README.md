@@ -31,7 +31,7 @@ email: chopin_liszt@naver.com
 
 [GitHub Link](https://github.com/hw79chopin/National-assembly-member-recommder)
 
-고등교육혁신원 사회혁신 장학금 수여 프로젝트입니다.
+`고등교육혁신원 사회혁신 장학금 수여 프로젝트`입니다.  
 국회의원 법안을 기반으로 사용자의 이해관계와 가장 부합하는 국회의원을 추천해주는 프로그램입니다.
 - TabLayout, RecyclerView 등을 활용한 커뮤니티 앱
 ## 
