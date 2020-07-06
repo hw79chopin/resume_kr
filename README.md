@@ -1,10 +1,7 @@
 # Portfolio
-이진우
+정현우
 
-email: etture@gmail.com
-
-tel: 010-3102-6706
-
+email: chopin_liszt@naver.com
 
 ## Proficiency
 개발 경험이 있는 프로그래밍 언어 및 프레임워크입니다. 
@@ -16,25 +13,40 @@ tel: 010-3102-6706
 ```
 
 ### Programming Languages
-- Java 🥇 [1](#connectup) [2](#cuebap) [3](#한국대학생IT경영학회-조원-편성-프로그램) 
-- Kotlin 🥇
 - TypeScript 🥇 [1](#to-do-list-백엔드-프로그래머스-썸머코딩-인턴-2차-과제) [2](#to-do-list-웹-프론트엔드-프로그래머스-썸머코딩-인턴-2차-과제)
 - JavaScript (ES6+) 🥇 [1](#서빙고-api) [2](#서빙고-사장님-대시보드) [3](#acqua-api) 
 - Python 🥇 [1](#네이버-블로그-ID-크롤러)
-- C 🥈
 
 ### Frameworks / Technologies
-- Android (Java/Kotlin) 🥇 [1](#connectup) [2](#cuebap)
 - Express (Node.js) 🥇 [1](#서빙고-api) [2](#acqua-api) [3](#to-do-list-백엔드-프로그래머스-썸머코딩-인턴-2차-과제)
 - AWS (EC2, RDS, ElastiCache, S3, Lambda) 🥈 [1](#서빙고-api) [2](#to-do-list-백엔드-프로그래머스-썸머코딩-인턴-2차-과제)
 - React 🥈 [1](#서빙고-사장님-대시보드) [2](#to-do-list-웹-프론트엔드-프로그래머스-썸머코딩-인턴-2차-과제)
 - React-Native 🥈
-- Docker 🥉 [1](#서빙고-api)
-- Django 🥉
-
 
 
 ## Projects
+
+### 국회의원 추천 시스템
+`#Python` '#word2vec'
+
+[GitHub Link](https://github.com/hw79chopin/National-assembly-member-recommder)
+
+고등교육혁신원 사회혁신 장학금 수여 프로젝트입니다.
+국회의원 법안을 기반으로 사용자의 이해관계와 가장 부합하는 국회의원을 추천해주는 프로그램입니다.
+- TabLayout, RecyclerView 등을 활용한 커뮤니티 앱
+## 
+
+### POSCO ICT 프로젝트
+
+### 연세시간표 생성기 프로그램
+
+### 연세 수강신청 예측 프로그램
+
+### Petr.EAT 상품 추천시스템
+
+### 대전시 유소년 의료취약 지역 파악 및 정책제언 (2020 대전시 빅데이터 공모전)
+
+### PACKUS 데이터분석 (2019 연세 데이터 사이언스 실전 우수상)
 
 ### _ConnectUp_
 `#Java` `#Android`
