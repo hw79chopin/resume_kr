@@ -1,6 +1,6 @@
 # Portfolio
 정현우
-
+1st change
 email: chopin_liszt@naver.com
 
 ## Proficiency
