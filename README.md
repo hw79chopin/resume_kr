@@ -38,6 +38,12 @@ email: chopin_liszt@naver.com
 
 ### POSCO ICT 프로젝트
 
+### 삼성카드 공모전
+
+### X-senators
+
+### KoBERT-Summarizer
+
 ### 연세시간표 생성기 프로그램
 
 ### 연세 수강신청 예측 프로그램
