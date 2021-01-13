@@ -1,11 +1,11 @@
-# Portfolio
+<h1 align="center"><strong>Résumé </strong></h1>
 
-# :mag_right: Info
+# <h1 align="center"> :mag_right: Info </h1>
 - Who I am: 킹현우
 - My Major: 경영학(본전공), 산업공학(복수전공), 응용통계(부전공)
 - Email: chopin_liszt@naver.com
 
-# :mag_right: Proficiency
+# <h1 align="center"> :mag_right: Proficiency </h1>
 개발 경험이 있는 프로그래밍 언어 및 프레임워크입니다. 
 각각 능숙도에 따라 기재되어 있습니다.
 ```
@@ -26,7 +26,7 @@
 - Docker 🥉
 
 
-# :mag_right: Projects
+# <h1 align="center"> :mag_right: Projects </h1>
 - 최신순
 
 ## 🚦 국회 입법활동 빅데이터 시각화 경진대회
@@ -72,7 +72,7 @@
 - 2019 연세 데이터 사이언스 실전
 - 🥉 우수상 🥉
 
-# :mag_right: Study
+# <h1 align="center"> :mag_right: Study </h1>
 
 ## 🚦 추천시스템
 
@@ -80,7 +80,7 @@
 
 ## 🚦 Docker
 
-# :mag_right: Courses
+# <h1 align="center"> :mag_right: Courses </h1>
 대학교에서 경영학(본전공), 산업공학(복수전공), 응용통계학(부전공)을 전공하며 현재까지 수강한 과목 리스트입니다.
 
 
