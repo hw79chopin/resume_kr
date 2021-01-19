@@ -1,7 +1,7 @@
-<h1 align="center"><strong>Résumé </strong></h1>
+<h1 align="center"><strong>Hyun's Résumé</strong></h1>
 
 # <h1 align="center"> :mag_right: Info </h1>
-- Who I am: 킹현우
+- Who I am: Hyun
 - My Major: 경영학(본전공), 산업공학(복수전공), 응용통계(부전공)
 - Email: chopin_liszt@naver.com
 
