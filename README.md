@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Hyun's Résumé</strong></h1>
 
 # <h1 align="center"> :mag_right: Info </h1>
-- Who I am: Hyun
+- My Name: 정현우
 - My Major: 경영학(본전공), 산업공학(복수전공), 응용통계(부전공)
 - Email: chopin_liszt@naver.com
 
@@ -84,6 +84,7 @@
 대학교에서 경영학(본전공), 산업공학(복수전공), 응용통계학(부전공)을 전공하며 현재까지 수강한 과목 리스트입니다.
 
 - 선형대수
+- 데이터마이닝이론및응용
 - 품질공학
 
 
