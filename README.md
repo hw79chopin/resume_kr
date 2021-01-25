@@ -22,6 +22,8 @@
 - Express (Node.js) 🥇
 - AWS (EC2, RDS, ElastiCache, S3, Lambda) 🥈
 - React 🥈
+- SPSS 🥈
+- R 🥉
 - React-Native 🥉
 - Docker 🥉
 
