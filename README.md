@@ -74,6 +74,8 @@
 - 2019 연세 데이터 사이언스 실전
 - 🥉 우수상 🥉
 
+## 🚦 Kaggle Card fraud detection
+
 # <h1 align="center"> :mag_right: Study </h1>
 
 ## 🚦 추천시스템
