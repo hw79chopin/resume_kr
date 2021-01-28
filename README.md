@@ -43,7 +43,6 @@
 ### 🚦 국회의원 추천시스템 Web (X-senators)
 `🥇 국회 빅데이터 경진대회 1위` `#Node.js` `#Express` `#Python` `#NLP` 
 
-[Github Link](https://github.com/hw79chopin/X-senators)
 [Dacon Leaderboard Link](https://dacon.io/competitions/official/235679/codeshare/1985)
 
 - 사용자의 관심사와 가장 부합하는 법안을 발의하는 국회의원(21대)을 추천해주는 Web
