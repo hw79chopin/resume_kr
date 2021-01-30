@@ -30,9 +30,10 @@
 - AWS (EC2, RDS, S3) 🥈
 - React 🥈
 - SPSS 🥈
+- Docker 🥈
 - R 🥉
 - React-Native 🥉
-- Docker 🥉
+- Spark, Hadoop 🥉
 
 
 # <h1 align="center"> 📂 Projects </h1>
