@@ -24,13 +24,15 @@
 ## Programming Languages
 - Python 🥇
 - JavaScript (ES6+) 🥇
+- MySQL 🥇
 
 ## Frameworks / Technologies
 - Express (Node.js) 🥇
-- AWS (EC2, RDS, S3) 🥈
 - React 🥈
 - SPSS 🥈
 - Docker 🥈
+- MongoDB 🥈
+- AWS (EC2, RDS, S3) 🥈
 - R 🥉
 - React-Native 🥉
 - Spark, Hadoop 🥉
@@ -40,6 +42,14 @@
 <h5 align="center"> 최신순 </h5>
 
 --- 
+
+### 🚦 한국품질경영학회 논문 게재
+`#한국품질경영학회` `#국회의원 추천`
+
+- "Quality Indicator Based Recommendation System of the National Assembly Members for Political Sponsors" 한국품질경영학회에 게재
+- 공저자: 윤형준, 이시은, 박솔희, 손소영 교수님
+
+---
 
 ### 🚦 국회의원 추천시스템 Web (X-senators)
 `🥇 국회 빅데이터 경진대회 1위` `#Node.js` `#Express` `#Python` `#NLP` 
