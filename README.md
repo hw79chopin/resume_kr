@@ -36,6 +36,7 @@
 - R 🥉
 - React-Native 🥉
 - Spark, Hadoop 🥉
+- Prolog 🥉
 
 
 # <h1 align="center"> 📂 Projects </h1>
