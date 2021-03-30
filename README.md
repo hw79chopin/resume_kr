@@ -6,10 +6,10 @@
 - 이메일: chopin_liszt@naver.com
 - 자격증: SQL개발자 자격증(SQLD), 재무위험관리사(FRM), 한식/양식/중식/일식조리기능사
 - 경력
-  - 교내 빅데이터 학회 YBIGTA 15기 (2019.07~현재)
+  - 교내 빅데이터 학회 YBIGTA 15기 (2019.07~2021.02)
     - YBIGTA Data Analytics Team (2019.07 ~ 2020.12)
     - YBIGTA Data Analytics 팀장 (2020.01 ~ 2020.07)
-    - YBIGTA Data Engineering Team (2021.01 ~ 현재)
+    - YBIGTA Data Engineering Team (2021.01 ~ 2021.02)
 
 
 # <h1 align="center"> 💻 Proficiency </h1>
