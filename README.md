@@ -23,29 +23,27 @@
 
 ## Programming Languages
 - Python 🥇
-- JavaScript (ES6+) 🥇
-- MySQL 🥇
+- Javascript, Typescript (ES6+) 🥇
+- MySQL, PostgreSQL 🥇
 
 ## Frameworks / Technologies
 - Express (Node.js) 🥇
-- React 🥈
-- SPSS 🥈
-- Docker 🥈
+- AWS (EC2, RDS, S3, DynamoDB)🥇
 - MongoDB 🥈
-- AWS (EC2, RDS, S3) 🥈
-- R 🥉
-- React-Native 🥉
 - Spark, Hadoop 🥉
-- Prolog 🥉
+- Docker 🥉
+- R 🥉
+
 
 
 # <h1 align="center"> 📂 Projects </h1>
 <h5 align="center"> 최신순 </h5>
 
 ### 🚦 EagleEagle 서비스 
-`#인공지능` `#서비스개발`
+`#인공지능` `#서비스개발` `#AI수강신청도우미`
 
-- '인공지능 기반 수강신청 성공확률 예측 및 마일리지 기반'의 서비스를 개발 중이다. (가칭: 이글이글)
+- '인공지능 기반 수강신청 성공확률 예측 및 마일리지 기반'의 서비스를 개발했다. 프로젝트의 PM을 맡으며 인공지능 개발과 백엔드 개발도 맡았다.
+- [이글이글](http://eagleeagle.io/)
 - 역할: PM, 인공지능 개발, 백엔드(Node.js)
 
 
